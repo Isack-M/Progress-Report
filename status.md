@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Isack Mayorga
 
 #### Your section leader's name
 
-TODO
+Yang Zhao
 
 #### Project title
 
-TODO
+Business Management Website
 
 ***
 
@@ -18,12 +18,12 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+I've got the website up and running and some of the CSS.
 
 #### What have you not done for your project yet?
 
-TODO
+I haven't implemented the user module as well as the stock section.
 
 #### What problems, if any, have you encountered?
 
-TODO
+None so far
